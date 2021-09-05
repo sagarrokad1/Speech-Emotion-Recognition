@@ -54,3 +54,7 @@ The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) Dataset
 
 •	 Computational cost was much high resulting in several runtime crashes but we’re able to get our best model for deployment.
 
+
+
+https://user-images.githubusercontent.com/84773742/132125768-04ae9ca2-f5d8-4075-a5df-2e8e958e4b11.mp4
+
