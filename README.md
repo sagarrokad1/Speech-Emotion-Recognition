@@ -33,7 +33,13 @@ The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) Dataset
 4) See **4_Transfer_Learning_on_Spectogram_images.ipynb**: Implemented transfer learning algorithms on spectogram images of audio files and implemented VGG16 and VGG19 Model and performed Data augmentation on spectogram images and implemented VGG19 fine tuning and got best accuracy of 82% in VGG19 (fine tuning + augmentation)
 
 5) See **5_Transfer_learning_on_data_augmentation.ipynb**:	Implemented Data augmentation like noise, stretch on different audio files and implented transfer learning models like VGG19 and Inception.
-
+  
+## Deployment
+  
+### Web-app link : https://ser-app-324611.ue.r.appspot.com/
+  
+![New video](https://user-images.githubusercontent.com/84773742/132125846-344e9294-78ef-431a-8ea6-f5f603a514ca.gif)
+  
 ## Challenges
 
 • As this project is not a stand-alone data science project, it required little to medium domain knowledge. Understanding Mfccs, Mel scale is very important for feature selection.
@@ -53,10 +59,3 @@ The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) Dataset
 •	 Noise Adding ,Pitching and Shifting for the imbalanced data was helping in achieving a better result. 
 
 •	 Computational cost was much high resulting in several runtime crashes but we’re able to get our best model for deployment.
-
-
-
-https://user-images.githubusercontent.com/84773742/132125768-04ae9ca2-f5d8-4075-a5df-2e8e958e4b11.mp4
-
-  
-![New video](https://user-images.githubusercontent.com/84773742/132125846-344e9294-78ef-431a-8ea6-f5f603a514ca.gif)
