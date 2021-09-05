@@ -53,3 +53,5 @@ The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) Dataset
 •	 Noise Adding ,Pitching and Shifting for the imbalanced data was helping in achieving a better result. 
 
 •	 Computational cost was much high resulting in several runtime crashes but we’re able to get our best model for deployment.
+
+![Alt Text](https://docs.google.com/file/d/1gWeVXFA20JsLeQ7cF5OPm6OiWP8RTItS/preview)
