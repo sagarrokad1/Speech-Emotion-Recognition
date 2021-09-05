@@ -24,8 +24,7 @@ The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) Dataset
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/mkosaka1/capstone_project/blob/master/Uploads/EDA_Photos/MelSpec_FemaleCalm.png">
-</p>
-
+![New video](https://user-images.githubusercontent.com/84773742/132125846-344e9294-78ef-431a-8ea6-f5f603a514ca.gif)
 2) See **2_data_augmentation.ipynb**: Implemented data augmentation methods including adding noise, speed and pitch, and stretch to all audio files and used feature extraction methods to turn audio files into images to feed into 1D CNN Model. Obtained an accuracy score of 51.74%, but overfitting the data as seen in graph.
 
 3) See **3_Audio_to_spectogram_images.ipynb**: Converted audio files into spectogram images and storing it in drive.
